@@ -1,5 +1,5 @@
-# short-range-real-gibberlink
-# Real-gibberlink — short-range secure handshake (audio + visual)
+# Short-range-real-Gibberlink
+# Real-Gibberlink — short-range secure handshake (audio + visual)
 
 # Real-GibberLink: Secure Directional Communication Protocol
 
@@ -64,7 +64,7 @@ pip install -r requirements.txt
 ### Android App
 ```bash
 # In Android Studio
-File > Open > gibberlink/android-app/
+File > Open > Rgibberlink/android-app/
 # Build and run on device with camera/microphone permissions
 ```
 
