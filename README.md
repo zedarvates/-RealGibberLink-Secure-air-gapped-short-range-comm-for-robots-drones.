@@ -5,6 +5,8 @@
 ![Marketing illustration](1_reflections/Marketing%20illustratiV1.1.png)
 ### Purpose
 Expose the limits of theatrical "AI sound languages" and provide a robust, verifiable alternative with ultra-short-range pairing (100-300ms) and long-range directional communication (10-200m) using coupled audio-visual-laser channels for enhanced security and reliability.
+Contactless, no mechanical wear
+
 
 Use Case :
 Access Badge
