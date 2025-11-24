@@ -11,7 +11,7 @@
 A comprehensive suite of secure directional communication protocols for autonomous drone operations, industrial automation, and autonomous vehicle coordination.
 
 
-![Marketing illustration](1_reflections/Marketing%20illustratiV1.1.png)
+![Marketing illustration](1_reflections/Marketing%20illustratiV1.2.png)
 
 
 ### Purpose
