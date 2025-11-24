@@ -14,7 +14,7 @@ Use Cases  EVs, Drones, robots and Autonomous Charging Systems, Warehouse, Confi
 ....
 
 ### Version
-**gibberlink-core v0.3.0** - Currently focused on short-range protocols with long-range architecture designed. License: MIT (GPL/AGPL pending migration).
+**Rgibberlink-core v0.3.0** - Currently focused on short-range protocols with long-range architecture designed. License: MIT (GPL/AGPL pending migration).
 
 ## Architecture
 
